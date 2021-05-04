@@ -1,0 +1,13 @@
+### Download data :
+
+I have provided the google drive link which is open to share to every one in the dataset folder.
+
+
+### Running Code :
+
+I have used googlecolab to run this code it took around 35 for complete execution of .ipynb file.
+____I used a path(to my drive) variable to save best check point model.I think u guys have to make change
+      before running the code other than that i think remaining is all same. 
+
+If you guys use same then there will be no problem or if you guys use jupyter notebook it is taking 40 mins for each epoch
+and that is huge time.
